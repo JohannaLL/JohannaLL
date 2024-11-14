@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Johanna
-- :bulb: I’m interested in new technologies, design, and scrapbooking.
-- :pencil2: I’m currently learning web design, and will start in September UX / UI courses.
-- :computer: I keep on learning and practicing HTML / CSS
-- :art: [My portfolio](https://portfolio.johanna-lavaud.fr)
+- 🎨 I’m interested in new technologies, design, and scrapbooking.
+- 🏫 I recently got my 📜 as a Concepter Designer UI after 2 and a half year of studies 👩🏽‍🎓
+- 👩🏽‍💻 I keep on learning and practicing HTML / CSS
+- 🖼️ [My portfolio](https://portfolio.johanna-lavaud.fr)
 
 <!---
 JohannaLL/JohannaLL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
